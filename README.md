@@ -24,7 +24,7 @@ I love exploring new technologies and building software solutions that make an i
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
 
 ## 📬 Connect with Me
-[![LinkedIn Badge](https://img.shields.io/badge/-Jane%20Doe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janedoe/)](https://www.linkedin.com/in/janedoe/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Jane%20Doe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janedoe/)](https://www.linkedin.com/in/zhihaowang-zach/)
 [![Twitter Badge](https://img.shields.io/badge/-@TheJaneDev-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/TheJaneDev)](https://twitter.com/TheJaneDev)
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-orange?style=flat-square&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/janedoe)
 
