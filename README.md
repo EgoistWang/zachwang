@@ -1,4 +1,4 @@
-# Hey there, I'm Jane Doe! 👩‍💻
+# Hey there, I'm Zach Wang! 👩‍💻
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" align="right" alt="Coding GIF" />
 
 **Passionate developer | Open-Source Enthusiast | Always Learning**
